@@ -23,5 +23,6 @@
     "bem-tools-core": "github:bem-tools/bem-tools-core",
     "bem-tools-create": "github:bem-tools/bem-tools-create",
     "typescript": "^3.2.4"
-  }
+  },
+  "homepage": "."
 }

@@ -1,0 +1,128 @@
+[
+  {
+    "name"       : "Portfolio",
+    "path"       : "portfolio.jpg",
+    "path_hover" : "portfolio_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/porfolio",
+    "page"       : "https://sukachevalex.github.io"
+  },
+  {
+    "name"       : "Hemma",
+    "path"       : "hemma.jpg",
+    "path_hover" : "hemma_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/Hemma",
+    "page"       : "https://sukachevalex.github.io/Hemma/index.html"
+  },
+  {
+    "name"       : "Dom Yandex",
+    "path"       : "domYandex.jpg",
+    "path_hover" : "domYandex_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/entrance-task-2-2",
+    "page"       : "https://sukachevalex.github.io/dom.yandex/index.html"
+  },
+  {
+    "name"       : "BEM",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-9",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-9/"
+  },
+  {
+    "name"       : "Posh",
+    "path"       : "posh.jpg",
+    "path_hover" : "posh_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/Posh",
+    "page"       : "https://sukachevalex.github.io/Posh/index.html"
+  },
+  {
+    "name"       : "Smitler",
+    "path"       : "smitler.jpg",
+    "path_hover" : "smitler_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/Smitler",
+    "page"       : "https://sukachevalex.github.io/Smitler/index.html"
+  },
+  {
+    "name"       : "A11Y",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-10",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-10/"
+  },
+  {
+    "name"       : "AgriPlus",
+    "path"       : "agriplus.jpg",
+    "path_hover" : "agriplus_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/AgriPlus",
+    "page"       : "https://sukachevalex.github.io/AgriPlus/index.html"
+  },
+  {
+    "name"       : "Pointer & Mouse Events",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-2",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-2/"
+  },
+  {
+    "name"       : "Canvas and HLS",
+    "path"       : "shri-2.jpg",
+    "path_hover" : "shri-2_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-3/tree/canvas",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-3/dist_2/video_monitoring.html"
+  },
+  {
+    "name"       : "Wedding",
+    "path"       : "wedding.jpg",
+    "path_hover" : "wedding_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/Wedding",
+    "page"       : "https://sukachevalex.github.io/Wedding/index.html"
+  },
+  {
+    "name"       : "TypeScript",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-7",
+    "page"       : ""
+  },
+  {
+    "name"       : "Gratia",
+    "path"       : "gratia.jpg",
+    "path_hover" : "gratia_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/Gratia",
+    "page"       : "https://sukachevalex.github.io/Gratia/index.html"
+  },
+  {
+    "name"       : "Node.js and heroku",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-4",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-4/"
+  },
+  {
+    "name"       : "Smart house",
+    "path"       : "shri-1.jpg",
+    "path_hover" : "shri-1_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-1",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-1/"
+  },
+  {
+    "name"       : "Test",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-5",
+    "page"       : ""
+  },
+  {
+    "name"       : "Performance",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-6",
+    "page"       : ""
+  },
+  {
+    "name"       : "Flux",
+    "path"       : "shri-3.png",
+    "path_hover" : "shri-3.png",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-8",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-8/"
+  }
+]
