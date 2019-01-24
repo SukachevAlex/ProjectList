@@ -14,4 +14,5 @@
 .List-Item:hover .List-Photo_hover {
   display: block;
   animation: fadeInDownVisible .5s ease;
+  animation-fill-mode: forwards;
 }
