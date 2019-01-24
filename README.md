@@ -4,7 +4,7 @@ Here you can see the list of my recently projects.
 
 ## Link
 
-[gh-pages](https://github.com/SukachevAlex/ProjectList/)
+[gh-pages](https://sukachevalex.github.io/ProjectList/)
 
 ## Technology
 
