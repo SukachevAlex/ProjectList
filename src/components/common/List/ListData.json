@@ -49,11 +49,11 @@
     "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-10/"
   },
   {
-    "name"       : "AgriPlus",
-    "path"       : "agriplus.jpg",
-    "path_hover" : "agriplus_hover.jpg",
-    "link"       : "https://github.com/SukachevAlex/AgriPlus",
-    "page"       : "https://sukachevalex.github.io/AgriPlus/index.html"
+    "name"       : "Smart house",
+    "path"       : "shri-1.jpg",
+    "path_hover" : "shri-1_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-1",
+    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-1/"
   },
   {
     "name"       : "Pointer & Mouse Events",
@@ -70,11 +70,11 @@
     "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-3/dist_2/video_monitoring.html"
   },
   {
-    "name"       : "Wedding",
-    "path"       : "wedding.jpg",
-    "path_hover" : "wedding_hover.jpg",
-    "link"       : "https://github.com/SukachevAlex/Wedding",
-    "page"       : "https://sukachevalex.github.io/Wedding/index.html"
+    "name"       : "AgriPlus",
+    "path"       : "agriplus.jpg",
+    "path_hover" : "agriplus_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/AgriPlus",
+    "page"       : "https://sukachevalex.github.io/AgriPlus/index.html"
   },
   {
     "name"       : "TypeScript",
@@ -98,11 +98,11 @@
     "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-4/"
   },
   {
-    "name"       : "Smart house",
-    "path"       : "shri-1.jpg",
-    "path_hover" : "shri-1_hover.jpg",
-    "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-1",
-    "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-1/"
+    "name"       : "Wedding",
+    "path"       : "wedding.jpg",
+    "path_hover" : "wedding_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/Wedding",
+    "page"       : "https://sukachevalex.github.io/Wedding/index.html"
   },
   {
     "name"       : "Testing",
