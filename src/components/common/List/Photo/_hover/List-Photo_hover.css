@@ -1,0 +1,17 @@
+@keyframes fadeInDownVisible {
+  from {
+    transform: translate3d(0, -100%, 0)
+  }
+  to {
+    transform: translate3d(0, 0, 0)
+  }
+}
+
+.List-Photo_hover {
+  display: none;
+}
+
+.List-Item:hover .List-Photo_hover {
+  display: block;
+  animation: fadeInDownVisible .5s ease;
+}

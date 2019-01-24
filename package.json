@@ -20,6 +20,7 @@
     "@types/node": "^10.12.18",
     "@types/react": "^16.7.20",
     "@types/react-dom": "^16.0.11",
+    "bem-react-core": "^2.2.3",
     "bem-tools-core": "github:bem-tools/bem-tools-core",
     "bem-tools-create": "github:bem-tools/bem-tools-create",
     "typescript": "^3.2.4"
