@@ -1,6 +1,7 @@
 import { cn } from '@bem-react/classname';
 import * as React from 'react';
 
+import { ListLink } from '../Link/List-Link';
 import { IListData } from '../ListData.d';
 import { ListName } from '../Name/List-Name';
 import { ListPhoto } from '../Photo/index';
@@ -17,7 +18,7 @@ export const ListItem: React.SFC<IListItemProps> = ({name, path, path_hover, lin
     {path && <ListPhoto path={path}/>}
     {path && <ListPhoto path={path_hover} hover={true}/>}
     {name && <ListName name={name} />}
-    {link && <a className={cnList('Link')} href={link}>gihtub</a>}
-    {page && <a className={cnList('Link')} href={page}>gh-pages</a>}
+    {link && <ListLink link={link} text='github'/>}
+    {page && <ListLink link={page} text='gh-pages'/>}
   </div>
 );
