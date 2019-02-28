@@ -21,6 +21,13 @@
     "page"       : "https://sukachevalex.github.io/dom.yandex/index.html"
   },
   {
+    "name"       : "Funbox Cats",
+    "path"       : "funbox_cats.jpg",
+    "path_hover" : "funbox_cats_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/funbox",
+    "page"       : "https://sukachevalex.github.io/funbox/"
+  },
+  {
     "name"       : "BEM",
     "path"       : "shri-3.png",
     "path_hover" : "shri-3.png",
@@ -42,11 +49,25 @@
     "page"       : "https://sukachevalex.github.io/Smitler/index.html"
   },
   {
+    "name"       : "Design Studio",
+    "path"       : "designStudio.jpg",
+    "path_hover" : "designStudio_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/test_page",
+    "page"       : "https://sukachevalex.github.io/test_page/"
+  },
+  {
     "name"       : "A11Y",
     "path"       : "shri-3.png",
     "path_hover" : "shri-3.png",
     "link"       : "https://github.com/SukachevAlex/shri-2018-2-homework-10",
     "page"       : "https://sukachevalex.github.io/shri-2018-2-homework-10/"
+  },
+  {
+    "name"       : "Resort",
+    "path"       : "resort.jpg",
+    "path_hover" : "resort_hover.jpg",
+    "link"       : "https://github.com/SukachevAlex/Husky/tree/master/first",
+    "page"       : "https://sukachevalex.github.io/Husky/first/index.html"
   },
   {
     "name"       : "Smart house",
